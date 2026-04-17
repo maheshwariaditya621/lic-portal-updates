@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "First release of the LIC Merchant Portal.",
+  "pub_date": "2026-04-17T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbVFIQmU5ckIreWsyRXFUOFphamIvVnRDamNwVkZwNVBIMUNFKzBDb00vTzc4dXVPK0VQazJ5Z3o0UVJTOFBmSUVucGlRVXFPZlJMcFhmRW9tbFdYbDFJSWM4a244SGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDQ2ODk1CWZpbGU6TElDIE1lcmNoYW50IFBvcnRhbF8xLjAuMF94NjQtc2V0dXAuZXhlClBhdnkzdjBRTzRUZGdEbjZYOTBacXpWSEU2TkNBM3NrSGNuV0tBMFpSZXdtZWdISTd2VHZLMExVUXJIS0xHRTFiUnloZzRzelMrTHc4VTBndVpIMURRPT0K",
+      "url": "https://github.com/maheshwariaditya621/lic-portal-updates/releases/download/v1.0.0/LIC.Merchant.Portal_1.0.0_x64-setup.exe"
+    }
+  }
+}
