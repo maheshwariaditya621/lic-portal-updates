@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "Added the new Agent Setup Wizard for an easier onboarding experience!",
-  "pub_date": "2026-05-05T10:00:00Z",
+  "version": "1.0.2",
+  "notes": "Critical Security Update: Removed bundled credentials and improved onboarding flow.",
+  "pub_date": "2026-05-06T11:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN0R3RFZSTmFqcjg0d3EvWWlsRUJjZzFUUnhGdFkyclFsbEEybTdxc2RKQUVTZGtGek1UUHBqQTJZbmw3cEhyUjhtdW55TjRTY3FteUpSRy9GSWwvMnBaWTlxL25hb2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3OTgxMjE1CWZpbGU6TElDIE1lcmNoYW50IFBvcnRhbF8xLjAuMV94NjQtc2V0dXAuZXhlCm9XNEpCbnBZZGVwY0xieGVBdFl4aklVb3VNa0h0bDZvaU9mOWNzaVFLdmprSFJJMko3WXRBb0NyR2JaVzVRRzVNVkVFY2QrK0oveWg5dllMdFo5Y0NnPT0K",
-      "url": "PASTE_THE_LINK_YOU_COPIED_IN_STEP_2_HERE"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN0R3RFZSTmFqcjUxTVU3c09qYkh2eWgxLzN6M3N3bWVNRmZEbUl1Q0E0Y09YejlNWVNHaGprM2FKQjM4UzlJNDNVY3U0S2xiZmF0MGVML2wzeUYwaWhuTk1RQVNKakFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDQ2ODE1CWZpbGU6TElDIE1lcmNoYW50IFBvcnRhbF8xLjAuMl94NjQtc2V0dXAuZXhlCnNLczU2bU4ySzh5OFBwa282d1drMUs5R2lOUUhTU3pLN1dyNWljcmxRVVQvUXArZkdOZVc0dUQ2eEhKRUdvVmxSTC9nV1JydzYyQzhXNjM1NWZzYURRPT0K",
+      "url": "PASTE_THE_LINK_YOU_COPIED_IN_STEP_1_HERE"
     }
   }
 }
