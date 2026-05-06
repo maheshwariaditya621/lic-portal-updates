@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "Critical Security Update: Removed bundled credentials and improved onboarding flow.",
-  "pub_date": "2026-05-06T11:00:00Z",
+  "version": "1.0.3",
+  "notes": "Premium Update: Added Download Progress tracking and finalized security fixes.",
+  "pub_date": "2026-05-06T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN0R3RFZSTmFqcjUxTVU3c09qYkh2eWgxLzN6M3N3bWVNRmZEbUl1Q0E0Y09YejlNWVNHaGprM2FKQjM4UzlJNDNVY3U0S2xiZmF0MGVML2wzeUYwaWhuTk1RQVNKakFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDQ2ODE1CWZpbGU6TElDIE1lcmNoYW50IFBvcnRhbF8xLjAuMl94NjQtc2V0dXAuZXhlCnNLczU2bU4ySzh5OFBwa282d1drMUs5R2lOUUhTU3pLN1dyNWljcmxRVVQvUXArZkdOZVc0dUQ2eEhKRUdvVmxSTC9nV1JydzYyQzhXNjM1NWZzYURRPT0K",
-      "url": "https://github.com/maheshwariaditya621/lic-portal-updates/releases/download/v1.0.2/LIC.Merchant.Portal_1.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN0R3RFZSTmFqcjZQNnJ6TjFHS1VxVUZIb3VDQWdLT0lvY3N1NTIxd0d1bkRaK0NNTE9zRnB2T3VMYXhIaElLQ0RHdm0rK1YxZ2U1LzRpTDB5VGFaOWYwZi9UbGNDSWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDUwMzE3CWZpbGU6TElDIE1lcmNoYW50IFBvcnRhbF8xLjAuM194NjQtc2V0dXAuZXhlCkJMd293a3JnUG80QithMVhHUzNvanFkaHFzNm96dzBOeER2K09qQWtBKytkdzhNcFprV2llVmJEUElKQ1prZjFNa29LaUIxWVNMODQ0ZnROWk9kckRRPT0K",
+      "url": "https://github.com/maheshwariaditya621/lic-portal-updates/releases/download/v1.0.3/LIC.Merchant.Portal_1.0.3_x64-setup.exe"
     }
   }
 }
